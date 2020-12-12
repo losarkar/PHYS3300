@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Inter\PHYS Videogames\Proyecto1\SistemaRecoleccion\Problema3 - SistemaRecoleccion\Problema3 - SistemaRecoleccion\main.cpp(70,29): warning C4018: '<': signed/unsigned mismatch
+D:\Inter\PHYS Videogames\Proyecto1\SistemaRecoleccion\Problema3 - SistemaRecoleccion\Problema3 - SistemaRecoleccion\main.cpp(83,17): warning C4018: '<=': signed/unsigned mismatch
+D:\Inter\PHYS Videogames\Proyecto1\SistemaRecoleccion\Problema3 - SistemaRecoleccion\Problema3 - SistemaRecoleccion\main.cpp(134,33): warning C4018: '<': signed/unsigned mismatch
+D:\Inter\PHYS Videogames\Proyecto1\SistemaRecoleccion\Problema3 - SistemaRecoleccion\Problema3 - SistemaRecoleccion\main.cpp(154,29): warning C4018: '<=': signed/unsigned mismatch
+D:\Inter\PHYS Videogames\Proyecto1\SistemaRecoleccion\Problema3 - SistemaRecoleccion\Problema3 - SistemaRecoleccion\main.cpp(246,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Problema3 - SistemaRecoleccion.vcxproj -> D:\Inter\PHYS Videogames\Proyecto1\SistemaRecoleccion\Problema3 - SistemaRecoleccion\Debug\Problema3 - SistemaRecoleccion.exe

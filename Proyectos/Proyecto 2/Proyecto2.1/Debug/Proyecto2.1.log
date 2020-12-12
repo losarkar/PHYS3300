@@ -1,0 +1,19 @@
+﻿  Simulation.cpp
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(91,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(92,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(93,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(94,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(97,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(97,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(98,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(98,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(99,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(99,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(104,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(104,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(114,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(119,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(119,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(133,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Proyecto2.1\src\Simulation.cpp(133,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Proyecto2.1.vcxproj -> D:\Inter\PHYS Videogames\Proyecto 2\Proyecto2.1\Debug\Proyecto2.1.exe
