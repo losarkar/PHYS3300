@@ -1,0 +1,6 @@
+﻿  main.cpp
+  voidWorld.cpp
+D:\Inter\PHYS Videogames\VoidJoyEngine\VoidJoyEngine\VoidJoyEngine\src\voidWorld.cpp(17,32): warning C4018: '<': signed/unsigned mismatch
+D:\Inter\PHYS Videogames\VoidJoyEngine\VoidJoyEngine\VoidJoyEngine\src\voidWorld.cpp(22,32): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  VoidJoyEngine.vcxproj -> D:\Inter\PHYS Videogames\VoidJoyEngine\VoidJoyEngine\Debug\VoidJoyEngine.exe
